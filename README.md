@@ -10,3 +10,7 @@
 - [ ] [unstole.com](https://www.afternic.com/forsale/unstole.com)
 - [ ] [zipperberry.com](https://www.brandbucket.com/names/zipperberry)
 - [ ] [gotravelmore.com](https://forsale.godaddy.com/forsale/gotravelmore.com)
+- beckonry.com
+- enticery.com
+- askward.com
+- fluxsome.com

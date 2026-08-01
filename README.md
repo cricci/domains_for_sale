@@ -1,5 +1,10 @@
 
 - [ ] [absurdnihilism.com](https://www.afternic.com/forsale/absurdnihilism.com)
+- [ ] [askward.com](https://forsale.godaddy.com/forsale/askward.com)
+- [ ] [beckonry.com](https://forsale.godaddy.com/forsale/beckonry.com)
+- [ ] [enticery.com](https://forsale.godaddy.com/forsale/enticery.com)
+- [ ] [fluxsome.com](https://forsale.godaddy.com/forsale/fluxsome.com)
+- [ ] [gotravelmore.com](https://forsale.godaddy.com/forsale/gotravelmore.com)
 - [ ] [heavesaw.com](https://www.afternic.com/forsale/heavesaw.com)
 - [ ] [nongradient.com](https://www.afternic.com/forsale/nongradient.com)
 - [ ] [sellerclout.com](https://www.afternic.com/forsale/sellerclout.com)
@@ -9,8 +14,3 @@
 - [ ] [sockobsessed.com](https://www.brandbucket.com/names/sockobsessed)
 - [ ] [unstole.com](https://www.afternic.com/forsale/unstole.com)
 - [ ] [zipperberry.com](https://www.brandbucket.com/names/zipperberry)
-- [ ] [gotravelmore.com](https://forsale.godaddy.com/forsale/gotravelmore.com)
-- beckonry.com
-- enticery.com
-- askward.com
-- fluxsome.com

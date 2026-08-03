@@ -12,5 +12,5 @@
 - [ ] [slogmill.com](https://www.afternic.com/forsale/slogmill.com)
 - [ ] [sockluxury.com](https://www.afternic.com/forsale/sockluxury.com)
 - [ ] [sockobsessed.com](https://www.brandbucket.com/names/sockobsessed)
-- [ ] [unstole.com](https://www.afternic.com/forsale/unstole.com)
+- [ ] [unstole.com](https://unstole.com)
 - [ ] [zipperberry.com](https://www.brandbucket.com/names/zipperberry)

@@ -1,6 +1,6 @@
 
 - [ ] [absurdnihilism.com](https://www.afternic.com/forsale/absurdnihilism.com)
-- [x] [askward.com](https://forsale.godaddy.com/forsale/askward.com)
+- [x] ~~askward.com~~
 - [ ] [beckonry.com](https://forsale.godaddy.com/forsale/beckonry.com)
 - [ ] [enticery.com](https://forsale.godaddy.com/forsale/enticery.com)
 - [ ] [fluxsome.com](https://forsale.godaddy.com/forsale/fluxsome.com)
